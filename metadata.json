@@ -1,0 +1,10 @@
+{
+  "name": "AR Photo Tourism Guide",
+  "description": "An interactive augmented reality (AR) style travel scanner. Capture a photo of any city landmark, and the AI will identify it, query history via Google Search grounding, overlay holographic stats/hotspots, and play a narrated audio tour.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
